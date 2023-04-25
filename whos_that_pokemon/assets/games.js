@@ -159,9 +159,6 @@ class CriesGame extends Game {
                     </div>
                     <div id="history-modal-body" class="modal-body">
                     </div>
-                    <div class="modal-footer">
-                        <button type="submit" class="btn btn-primary">Envoyer</button>
-                    </div>
                 </div>
             </div>
         </div>`
@@ -310,9 +307,6 @@ class SilhouetteGame extends Game {
                     </div>
                     <div id="history-modal-body" class="modal-body">
                     </div>
-                    <div class="modal-footer">
-                        <button type="submit" class="btn btn-primary">Envoyer</button>
-                    </div>
                 </div>
             </div>
         </div>`
@@ -331,7 +325,7 @@ class SilhouetteGame extends Game {
                 <div class="row" style="background-color:${round["result"] ? "#008000" : "#ff0000" }">
                     <div class="col">
                         <figure>
-                            <img class="pixelart img-fluid" width="100px" src="${round["pokemon"]["sprites"]}">
+                            <img class="pixelart img-fluid" width="100px" src="${round["pokemon"]["sprite"]}">
                             <figcaption>${getName(shownPkmn)}</figcaption>
                         </figure>
                     </div>
