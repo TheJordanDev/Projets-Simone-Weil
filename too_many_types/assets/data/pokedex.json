@@ -1,0 +1,4285 @@
+{
+    "Chikorita": {
+        "types": [
+            "Grass",
+            "Bean"
+        ],
+        "learned_moves": [
+            {
+                "name": "pinto_power",
+                "reason": "Level 10"
+            },
+            {
+                "name": "lima lash",
+                "reason": "Level 12"
+            },
+            {
+                "name": "sip coffee",
+                "reason": "(over synthesis)"
+            },
+            {
+                "name": "28 lentil leech",
+                "reason": "(over sweet scent)"
+            },
+            {
+                "name": "bean bomb",
+                "reason": "(over aromatherapy)"
+            }
+        ]
+    },
+    "Bayleef": {
+        "types": [
+            "Grass",
+            "Bean"
+        ],
+        "learned_moves": [
+            {
+                "name": "pinto_power",
+                "reason": "Level 10"
+            },
+            {
+                "name": "lima lash",
+                "reason": "Level 12"
+            },
+            {
+                "name": "sip coffee",
+                "reason": "(over synthesis)"
+            },
+            {
+                "name": "28 lentil leech",
+                "reason": "(over sweet scent)"
+            },
+            {
+                "name": "bean bomb",
+                "reason": "(over aromatherapy)"
+            }
+        ]
+    },
+    "Meganium": {
+        "types": [
+            "Grass",
+            "Bean",
+            "Fairy"
+        ],
+        "learned_moves": [
+            {
+                "name": "pinto_power",
+                "reason": "Level 10"
+            },
+            {
+                "name": "lima lash",
+                "reason": "Level 12"
+            },
+            {
+                "name": "sip coffee",
+                "reason": "(over synthesis)"
+            },
+            {
+                "name": "28 lentil leech",
+                "reason": "(over sweet scent)"
+            },
+            {
+                "name": "bean bomb",
+                "reason": "(over aromatherapy)"
+            },
+            {
+                "name": "moonblast",
+                "reason": "Level 44"
+            }
+        ]
+    },
+    "Fennekin": {
+        "types": [
+            "Fire",
+            "Magic"
+        ],
+        "learned_moves": [
+            {
+                "name": "eldritch blast",
+                "reason": "Level 8"
+            },
+            {
+                "name": "magic_missile",
+                "reason": "(over psybeam)"
+            },
+            {
+                "name": "mage armor",
+                "reason": "Level 30"
+            },
+            {
+                "name": "fireball",
+                "reason": "(over flamethrower)"
+            }
+        ]
+    },
+    "Braixen": {
+        "types": [
+            "Fire",
+            "Magic",
+            "Furry"
+        ],
+        "learned_moves": [
+            {
+                "name": "eldritch blast",
+                "reason": "Level 8"
+            },
+            {
+                "name": "magic_missile",
+                "reason": "(over psybeam)"
+            },
+            {
+                "name": "mage armor",
+                "reason": "Level 30"
+            },
+            {
+                "name": "fireball",
+                "reason": "(over flamethrower)"
+            }
+        ]
+    },
+    "Delphox": {
+        "types": [
+            "Fire",
+            "Magic",
+            "Furry"
+        ],
+        "learned_moves": [
+            {
+                "name": "eldritch blast",
+                "reason": "Level 8"
+            },
+            {
+                "name": "magic_missile",
+                "reason": "(over psybeam)"
+            },
+            {
+                "name": "mage armor",
+                "reason": "Level 30"
+            },
+            {
+                "name": "fireball",
+                "reason": "(over flamethrower)"
+            }
+        ]
+    },
+    "Popplio": {
+        "types": [
+            "Water",
+            "Silly"
+        ],
+        "learned_moves": [
+            {
+                "name": "squirting flower",
+                "reason": "Level 13"
+            },
+            {
+                "name": "toon up",
+                "reason": "Level 33"
+            }
+        ]
+    },
+    "Brionne": {
+        "types": [
+            "Water",
+            "Silly"
+        ],
+        "learned_moves": [
+            {
+                "name": "squirting flower",
+                "reason": "Level 13"
+            },
+            {
+                "name": "toon up",
+                "reason": "Level 33"
+            }
+        ]
+    },
+    "Primarina": {
+        "types": [
+            "Water",
+            "Silly",
+            "Song"
+        ],
+        "learned_moves": [
+            {
+                "name": "squirting flower",
+                "reason": "Level 13"
+            },
+            {
+                "name": "toon up",
+                "reason": "Level 34"
+            },
+            {
+                "name": "wedding cake",
+                "reason": "Level 40"
+            }
+        ]
+    },
+    "Sentret": {
+        "types": [
+            "Normal",
+            "Fluffy"
+        ],
+        "learned_moves": [
+            {
+                "name": "teddy tumble",
+                "reason": "Level 5"
+            },
+            {
+                "name": "puff up",
+                "reason": "(over defense curl)"
+            },
+            {
+                "name": "cuddle slam (over slam) snug strike",
+                "reason": "Level 30"
+            }
+        ]
+    },
+    "Furret": {
+        "types": [
+            "Friend",
+            "Fluffy"
+        ],
+        "learned_moves": [
+            {
+                "name": "teddy tumble",
+                "reason": "Level 5"
+            },
+            {
+                "name": "puff up",
+                "reason": "(over defense curl)"
+            },
+            {
+                "name": "cuddle slam (over slam) snug strike",
+                "reason": "Level 30"
+            }
+        ]
+    },
+    "Pidove": {
+        "types": [
+            "Boring",
+            "Flying"
+        ],
+        "learned_moves": [
+            {
+                "name": "file_w9",
+                "reason": "Level 14"
+            },
+            {
+                "name": "eat cracker",
+                "reason": "(over roost)"
+            }
+        ]
+    },
+    "Tranquill": {
+        "types": [
+            "Boring",
+            "Flying"
+        ],
+        "learned_moves": [
+            {
+                "name": "file_w9",
+                "reason": "Level 14"
+            },
+            {
+                "name": "eat cracker",
+                "reason": "(over roost)"
+            }
+        ]
+    },
+    "Unfezant": {
+        "types": [
+            "Boring",
+            "Flying"
+        ],
+        "learned_moves": [
+            {
+                "name": "file_w9",
+                "reason": "Level 14"
+            },
+            {
+                "name": "eat cracker",
+                "reason": "(over roost)"
+            }
+        ]
+    },
+    "Rattata": {
+        "types": [
+            "Boring"
+        ],
+        "learned_moves": [
+            {
+                "name": "send email",
+                "reason": "Level 20"
+            }
+        ]
+    },
+    "Raticate": {
+        "types": [
+            "Boring"
+        ],
+        "learned_moves": [
+            {
+                "name": "send email",
+                "reason": "Level 20"
+            }
+        ]
+    },
+    "Poochyena": {
+        "types": [
+            "Angy"
+        ],
+        "learned_moves": [
+            {
+                "name": "rage",
+                "reason": "(over tackle)"
+            }
+        ]
+    },
+    "Mightyena": {
+        "types": [
+            "Angy"
+        ],
+        "learned_moves": [
+            {
+                "name": "rage",
+                "reason": "(over tackle)"
+            }
+        ]
+    },
+    "Lotad": {
+        "types": [
+            "Grass",
+            "Vibe"
+        ],
+        "learned_moves": [
+            {
+                "name": "vibe shift",
+                "reason": "Level 16"
+            },
+            {
+                "name": "goove pulse",
+                "reason": "Level 23"
+            }
+        ]
+    },
+    "Lombre": {
+        "types": [
+            "Grass",
+            "Water",
+            "Vibe"
+        ],
+        "learned_moves": [
+            {
+                "name": "vibe shift",
+                "reason": "Level 18"
+            },
+            {
+                "name": "groove pulse",
+                "reason": "Level 26"
+            }
+        ]
+    },
+    "Ludicolo": {
+        "types": [
+            "Grass",
+            "Water",
+            "Dance"
+        ],
+        "learned_moves": [
+            {
+                "name": "groove pulse",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "samba_strike",
+                "reason": "(idk)"
+            },
+            {
+                "name": "cha_cha(idk)",
+                "reason": "(idk)"
+            }
+        ]
+    },
+    "Ralts": {
+        "types": [
+            "Space",
+            "Fairy"
+        ],
+        "learned_moves": [
+            {
+                "name": "swift",
+                "reason": "Level 13"
+            },
+            {
+                "name": "starstrike",
+                "reason": "(over psychic)"
+            }
+        ]
+    },
+    "Kirlia": {
+        "types": [
+            "Space",
+            "Fairy"
+        ],
+        "learned_moves": [
+            {
+                "name": "swift",
+                "reason": "Level 13"
+            },
+            {
+                "name": "starstrike",
+                "reason": "(over psychic)"
+            }
+        ]
+    },
+    "Gardevoir": {
+        "types": [
+            "Space",
+            "Fairy",
+            "Gender"
+        ],
+        "learned_moves": [
+            {
+                "name": "swift",
+                "reason": "Level 13"
+            },
+            {
+                "name": "starstrike",
+                "reason": "(over psychic)"
+            }
+        ]
+    },
+    "Gallade": {
+        "types": [
+            "Bad",
+            "Sharp",
+            "Gender"
+        ],
+        "learned_moves": [
+            {
+                "name": "meteor mash",
+                "reason": "Level 32"
+            }
+        ]
+    },
+    "Krabby": {
+        "types": [
+            "Crab"
+        ],
+        "learned_moves": [
+            {
+                "name": "crab rave",
+                "reason": "Level 16"
+            },
+            {
+                "name": "carcinization",
+                "reason": "Level 28"
+            }
+        ]
+    },
+    "Kingler": {
+        "types": [
+            "Crab"
+        ],
+        "learned_moves": [
+            {
+                "name": "crab rave",
+                "reason": "Level 16"
+            },
+            {
+                "name": "carcinization",
+                "reason": "Level 28"
+            }
+        ]
+    },
+    "Cottonee": {
+        "types": [
+            "Fluffy"
+        ],
+        "learned_moves": [
+            {
+                "name": "puff up",
+                "reason": "Level 6"
+            },
+            {
+                "name": "warm hug",
+                "reason": "(over stun spore)"
+            }
+        ]
+    },
+    "Whimsicott": {
+        "types": [
+            "Fluffy",
+            "Prime"
+        ],
+        "learned_moves": [
+            {
+                "name": "pollen puff",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "content",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "prime sub",
+                "reason": "Level 32"
+            }
+        ]
+    },
+    "Kricketot": {
+        "types": [
+            "Bug",
+            "Song"
+        ],
+        "learned_moves": [
+            {
+                "name": "disarming voice:",
+                "reason": "Level 10"
+            }
+        ]
+    },
+    "Kricketune": {
+        "types": [
+            "Bug",
+            "Song"
+        ],
+        "learned_moves": [
+            {
+                "name": "disarming voice:",
+                "reason": "Level 10"
+            },
+            {
+                "name": "round",
+                "reason": "Level 32"
+            }
+        ]
+    },
+    "Azurill": {
+        "types": [
+            "Normal",
+            "Gender",
+            "Baby"
+        ],
+        "learned_moves": [
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Marill": {
+        "types": [
+            "Water",
+            "Gender"
+        ],
+        "learned_moves": [
+            {
+                "name": "wavedash",
+                "reason": "Level 15"
+            },
+            {
+                "name": "double jump",
+                "reason": "Level 30"
+            }
+        ]
+    },
+    "Azumarill": {
+        "types": [
+            "Water",
+            "Gender"
+        ],
+        "learned_moves": [
+            {
+                "name": "wavedash",
+                "reason": "Level 15"
+            },
+            {
+                "name": "double jump",
+                "reason": "Level 30"
+            }
+        ]
+    },
+    "Slakoth": {
+        "types": [
+            "Boring",
+            "Stinky"
+        ],
+        "learned_moves": [
+            {
+                "name": "pee-yew!",
+                "reason": "Level 11"
+            }
+        ]
+    },
+    "Vigoroth": {
+        "types": [
+            "Angy",
+            "Stinky"
+        ],
+        "learned_moves": [
+            {
+                "name": "pee-yew!",
+                "reason": "Level 11"
+            }
+        ]
+    },
+    "Slaking": {
+        "types": [
+            "Boring",
+            "Stinky"
+        ],
+        "learned_moves": [
+            {
+                "name": "wait",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "pantstaybrown",
+                "reason": "Level 44"
+            },
+            {
+                "name": "wedontwipe",
+                "reason": "Level 44"
+            }
+        ]
+    },
+    "Pichu": {
+        "types": [
+            "Electric",
+            "Little",
+            "Baby"
+        ],
+        "learned_moves": [
+            {
+                "name": "minimize",
+                "reason": "Level 8"
+            },
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Pikachu": {
+        "types": [
+            "Pikachu"
+        ],
+        "learned_moves": [
+            {
+                "name": "pikabolt",
+                "reason": "(replace spark)"
+            },
+            {
+                "name": "pikattack",
+                "reason": "(replace slam)"
+            },
+            {
+                "name": "rocket punch",
+                "reason": "(replace quick attack)"
+            },
+            {
+                "name": "pikaprotect",
+                "reason": "Level 30"
+            },
+            {
+                "name": "volt tackle",
+                "reason": "(replace thunderbolt)"
+            }
+        ]
+    },
+    "Raichu": {
+        "types": [
+            "Electric",
+            "Zoomer"
+        ],
+        "learned_moves": [
+            {
+                "name": "metal pipe",
+                "reason": "(idk)"
+            },
+            {
+                "name": "parabolic charge",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Whismur": {
+        "types": [
+            "Song"
+        ],
+        "learned_moves": []
+    },
+    "Loudred": {
+        "types": [
+            "Song",
+            "Ugly"
+        ],
+        "learned_moves": [
+            {
+                "name": "revenge",
+                "reason": "Level 25"
+            },
+            {
+                "name": "stomping tantrum",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Exploud": {
+        "types": [
+            "Song",
+            "Ugly",
+            "Angy"
+        ],
+        "learned_moves": [
+            {
+                "name": "revenge",
+                "reason": "Level 25"
+            },
+            {
+                "name": "stomping tantrum",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Budew": {
+        "types": [
+            "Grass",
+            "Poison",
+            "Baby"
+        ],
+        "learned_moves": [
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Roselia": {
+        "types": [
+            "Grass",
+            "Poison",
+            "Gender"
+        ],
+        "learned_moves": [
+            {
+                "name": "dazzling gleam",
+                "reason": "Level 27"
+            }
+        ]
+    },
+    "Roserade": {
+        "types": [
+            "Grass",
+            "Poison",
+            "Gender"
+        ],
+        "learned_moves": [
+            {
+                "name": "double jump",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "dazzling gleam",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Happiny": {
+        "types": [
+            "Baby",
+            "Friend"
+        ],
+        "learned_moves": [
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Chansey": {
+        "types": [
+            "Friend"
+        ],
+        "learned_moves": [
+            {
+                "name": "hug",
+                "reason": "Level 15"
+            }
+        ]
+    },
+    "Blissey": {
+        "types": [
+            "Friend"
+        ],
+        "learned_moves": [
+            {
+                "name": "hug",
+                "reason": "Level 15"
+            }
+        ]
+    },
+    "Stunky": {
+        "types": [
+            "Stinky"
+        ],
+        "learned_moves": [
+            {
+                "name": "pee yew!",
+                "reason": "(replace fury swipes)"
+            },
+            {
+                "name": "uh oh stinky",
+                "reason": "(replace poison gas)"
+            },
+            {
+                "name": "stink bomb",
+                "reason": "(replace feint)"
+            }
+        ]
+    },
+    "Skuntank": {
+        "types": [
+            "Stinky",
+            "Angy"
+        ],
+        "learned_moves": [
+            {
+                "name": "pee yew!",
+                "reason": "(replace fury swipes)"
+            },
+            {
+                "name": "uh oh stinky",
+                "reason": "(replace poison gas)"
+            },
+            {
+                "name": "stink bomb",
+                "reason": "(replace feint)"
+            }
+        ]
+    },
+    "Vulpix": {
+        "types": [
+            "Fire",
+            "Fluffy"
+        ],
+        "learned_moves": [
+            {
+                "name": "teddy tumble",
+                "reason": "Level 5"
+            },
+            {
+                "name": "puff up",
+                "reason": "Level 14"
+            },
+            {
+                "name": "snug strike",
+                "reason": "Level 24"
+            }
+        ]
+    },
+    "Ninetales": {
+        "types": [
+            "Fire",
+            "Fluffy",
+            "Dream"
+        ],
+        "learned_moves": [
+            {
+                "name": "etherwave",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "mystical fire",
+                "reason": "Level 32"
+            },
+            {
+                "name": "dreamweave",
+                "reason": "Level 36"
+            },
+            {
+                "name": "curse",
+                "reason": "Level 40"
+            },
+            {
+                "name": "spectral surge",
+                "reason": "Level 48"
+            }
+        ]
+    },
+    "Magikarp": {
+        "types": [
+            "Water",
+            "Ugly"
+        ],
+        "learned_moves": []
+    },
+    "Gyarados": {
+        "types": [
+            "Water",
+            "Angy"
+        ],
+        "learned_moves": [
+            {
+                "name": "outrage",
+                "reason": "Level 44"
+            }
+        ]
+    },
+    "Geodude": {
+        "types": [
+            "Boring",
+            "Ugly",
+            "Rock"
+        ],
+        "learned_moves": [
+            {
+                "name": "revenge",
+                "reason": "Level 20"
+            },
+            {
+                "name": "wait",
+                "reason": "Level 45"
+            }
+        ]
+    },
+    "Graveler": {
+        "types": [
+            "Crab",
+            "Rock"
+        ],
+        "learned_moves": [
+            {
+                "name": "revenge",
+                "reason": "Level 20"
+            },
+            {
+                "name": "carcinization",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "wait",
+                "reason": "Level 51"
+            }
+        ]
+    },
+    "Golem": {
+        "types": [
+            "Boring",
+            "Ugly",
+            "Rock"
+        ],
+        "learned_moves": [
+            {
+                "name": "revenge",
+                "reason": "Level 20"
+            },
+            {
+                "name": "wait",
+                "reason": "Level 51"
+            }
+        ]
+    },
+    "Lileep": {
+        "types": [
+            "Sus",
+            "Grass",
+            "Ancient"
+        ],
+        "learned_moves": [
+            {
+                "name": "facade",
+                "reason": "Level 27"
+            }
+        ]
+    },
+    "Cradily": {
+        "types": [
+            "Sus",
+            "Grass",
+            "Ancient"
+        ],
+        "learned_moves": [
+            {
+                "name": "facade",
+                "reason": "Level 27"
+            }
+        ]
+    },
+    "Anorith": {
+        "types": [
+            "Sharp",
+            "Bug",
+            "Ancient"
+        ],
+        "learned_moves": []
+    },
+    "Armoldo": {
+        "types": [
+            "Sharp",
+            "Bug",
+            "Ancient"
+        ],
+        "learned_moves": []
+    },
+    "Baltoy": {
+        "types": [
+            "Ancient",
+            "Psychic"
+        ],
+        "learned_moves": [
+            {
+                "name": "fossilize",
+                "reason": "Level 8"
+            }
+        ]
+    },
+    "Claydol": {
+        "types": [
+            "Ancient",
+            "Psychic"
+        ],
+        "learned_moves": [
+            {
+                "name": "fossilize",
+                "reason": "Level 8"
+            }
+        ]
+    },
+    "Mankey": {
+        "types": [
+            "Monke",
+            "Angy"
+        ],
+        "learned_moves": [
+            {
+                "name": "ooga booga",
+                "reason": "Level 7"
+            },
+            {
+                "name": "monke moment 12;unga bunga",
+                "reason": "Level 17"
+            },
+            {
+                "name": "banana blitz",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Primeape": {
+        "types": [
+            "Monke",
+            "Angy"
+        ],
+        "learned_moves": [
+            {
+                "name": "ooga booga",
+                "reason": "Level 7"
+            },
+            {
+                "name": "monke moment 12;unga bunga",
+                "reason": "Level 17"
+            },
+            {
+                "name": "banana blitz",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Klink": {
+        "types": [
+            "Steel",
+            "Guys",
+            "Prime"
+        ],
+        "learned_moves": [
+            {
+                "name": "prime sub",
+                "reason": "Level 18"
+            },
+            {
+                "name": "dab me up",
+                "reason": "Level 24"
+            },
+            {
+                "name": "peer pressure",
+                "reason": "Level 46"
+            }
+        ]
+    },
+    "Klang": {
+        "types": [
+            "Steel",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "prime sub",
+                "reason": "Level 18"
+            },
+            {
+                "name": "dab me up",
+                "reason": "Level 24"
+            },
+            {
+                "name": "peer pressure",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Klinklang": {
+        "types": [
+            "Steel",
+            "Guys",
+            "Prime"
+        ],
+        "learned_moves": [
+            {
+                "name": "prime sub",
+                "reason": "Level 18"
+            },
+            {
+                "name": "dab me up",
+                "reason": "Level 24"
+            },
+            {
+                "name": "peer pressure",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Bonsly": {
+        "types": [
+            "Baby",
+            "Sus"
+        ],
+        "learned_moves": [
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Sudowoodo": {
+        "types": [
+            "Sus",
+            "Rock",
+            "Furry"
+        ],
+        "learned_moves": [
+            {
+                "name": "flatter",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "sabotage",
+                "reason": "Level 18"
+            },
+            {
+                "name": "vent",
+                "reason": "Level 24"
+            }
+        ]
+    },
+    "Sableye": {
+        "types": [
+            "Gamer"
+        ],
+        "learned_moves": [
+            {
+                "name": "wombo combo",
+                "reason": "Level 15"
+            },
+            {
+                "name": "screen peek",
+                "reason": "Level 40"
+            },
+            {
+                "name": "5 nights",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Riolu": {
+        "types": [
+            "Fighting",
+            "Vibe",
+            "Friend"
+        ],
+        "learned_moves": [
+            {
+                "name": "return",
+                "reason": "Level 8"
+            }
+        ]
+    },
+    "Lucario": {
+        "types": [
+            "Fighting",
+            "Vibe",
+            "Furry"
+        ],
+        "learned_moves": [
+            {
+                "name": "glomp",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "ball pit",
+                "reason": "Level 22"
+            }
+        ]
+    },
+    "Gulpin": {
+        "types": [
+            "Deez Nuts"
+        ],
+        "learned_moves": []
+    },
+    "Swalot": {
+        "types": [
+            "Deez Nuts"
+        ],
+        "learned_moves": []
+    },
+    "Stufful": {
+        "types": [
+            "Little",
+            "Fluffy"
+        ],
+        "learned_moves": [
+            {
+                "name": "teddy tumble",
+                "reason": "Level 8"
+            },
+            {
+                "name": "cuddle slam",
+                "reason": "Level 20"
+            },
+            {
+                "name": "warm hug",
+                "reason": "Level 22"
+            }
+        ]
+    },
+    "Bewear": {
+        "types": [
+            "Fluffy ",
+            "Gamer"
+        ],
+        "learned_moves": [
+            {
+                "name": "teddy tumble",
+                "reason": "Level 8"
+            },
+            {
+                "name": "cuddle slam",
+                "reason": "Level 20"
+            },
+            {
+                "name": "warm hug",
+                "reason": "Level 22"
+            },
+            {
+                "name": "plush punch",
+                "reason": "Level 38"
+            },
+            {
+                "name": "bite of 87",
+                "reason": "Level 50"
+            },
+            {
+                "name": "5 nights",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Buizel": {
+        "types": [
+            "Water",
+            "Fluffy"
+        ],
+        "learned_moves": [
+            {
+                "name": "plush punch",
+                "reason": "Level 22"
+            }
+        ]
+    },
+    "Floatzel": {
+        "types": [
+            "Water",
+            "Fluffy",
+            "Furry"
+        ],
+        "learned_moves": []
+    },
+    "Sandshrew": {
+        "types": [
+            "Ground",
+            "Friend"
+        ],
+        "learned_moves": [
+            {
+                "name": "return",
+                "reason": "Level 12"
+            }
+        ]
+    },
+    "Sandslash": {
+        "types": [
+            "Ground",
+            "Sharp"
+        ],
+        "learned_moves": [
+            {
+                "name": "return",
+                "reason": "Level 12"
+            }
+        ]
+    },
+    "Mime Jr.": {
+        "types": [
+            "Silly",
+            "Little",
+            "Baby"
+        ],
+        "learned_moves": [
+            {
+                "name": "squirting flower",
+                "reason": "Level 13"
+            },
+            {
+                "name": "toon up",
+                "reason": "Level 26"
+            },
+            {
+                "name": "hypno goggles",
+                "reason": "Level 34"
+            },
+            {
+                "name": "wedding cake",
+                "reason": "Level 42"
+            },
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Mr. Mime": {
+        "types": [
+            "Silly",
+            "Psychic"
+        ],
+        "learned_moves": [
+            {
+                "name": "squirting flower",
+                "reason": "Level 13"
+            },
+            {
+                "name": "toon up",
+                "reason": "Level 26"
+            },
+            {
+                "name": "hypno goggles",
+                "reason": "Level 34"
+            },
+            {
+                "name": "wedding cake",
+                "reason": "Level 42"
+            }
+        ]
+    },
+    "Mr. Rime": {
+        "types": [
+            "Silly",
+            "Ice",
+            "Boomer"
+        ],
+        "learned_moves": [
+            {
+                "name": "squirting flower",
+                "reason": "Level 13"
+            },
+            {
+                "name": "toon up",
+                "reason": "Level 26"
+            },
+            {
+                "name": "hypno goggles 32",
+                "reason": "(replace hypnosis)"
+            },
+            {
+                "name": "wedding cake",
+                "reason": "Level 42"
+            }
+        ]
+    },
+    "Aipom": {
+        "types": [
+            "Monke"
+        ],
+        "learned_moves": [
+            {
+                "name": "ooga booga",
+                "reason": "Level 7"
+            },
+            {
+                "name": "unga bunga",
+                "reason": "Level 17"
+            },
+            {
+                "name": "ape escape",
+                "reason": "Level 30"
+            }
+        ]
+    },
+    "Ambipom": {
+        "types": [
+            "Monke",
+            "Crab"
+        ],
+        "learned_moves": [
+            {
+                "name": "ooga booga",
+                "reason": "Level 7"
+            },
+            {
+                "name": "unga bunga",
+                "reason": "Level 17"
+            },
+            {
+                "name": "ape escape",
+                "reason": "Level 30"
+            }
+        ]
+    },
+    "Slowpoke": {
+        "types": [
+            "Water",
+            "Vibe"
+        ],
+        "learned_moves": [
+            {
+                "name": "hey chill",
+                "reason": "Level 10"
+            },
+            {
+                "name": "vibe shift",
+                "reason": "Level 24"
+            },
+            {
+                "name": "uplift",
+                "reason": "Level 40"
+            }
+        ]
+    },
+    "Slowbro": {
+        "types": [
+            "Water",
+            "Vibe"
+        ],
+        "learned_moves": [
+            {
+                "name": "hey chill",
+                "reason": "Level 10"
+            },
+            {
+                "name": "vibe shift",
+                "reason": "Level 24"
+            },
+            {
+                "name": "uplift",
+                "reason": "Level 40"
+            }
+        ]
+    },
+    "Slowking": {
+        "types": [
+            "Water",
+            "Psychic",
+            "Vibe"
+        ],
+        "learned_moves": [
+            {
+                "name": "hey chill",
+                "reason": "Level 10"
+            },
+            {
+                "name": "vibe shift",
+                "reason": "Level 24"
+            },
+            {
+                "name": "uplift",
+                "reason": "Level 40"
+            }
+        ]
+    },
+    "Growlithe": {
+        "types": [
+            "Fire",
+            "Friend"
+        ],
+        "learned_moves": [
+            {
+                "name": "hug",
+                "reason": "Level 1"
+            },
+            {
+                "name": "return",
+                "reason": "Level 14"
+            }
+        ]
+    },
+    "Aranine": {
+        "types": [
+            "Fire",
+            "Friend"
+        ],
+        "learned_moves": [
+            {
+                "name": "hug",
+                "reason": "Level 1"
+            },
+            {
+                "name": "return",
+                "reason": "Level 1"
+            },
+            {
+                "name": "return",
+                "reason": "Level 14"
+            }
+        ]
+    },
+    "Doduo": {
+        "types": [
+            "Normal",
+            "Flying",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "peer pressure",
+                "reason": "Level 45"
+            }
+        ]
+    },
+    "Dodrio": {
+        "types": [
+            "Normal",
+            "Flying",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "peer pressure",
+                "reason": "Level 45"
+            }
+        ]
+    },
+    "Eevee": {
+        "types": [
+            "Normal",
+            "Fluffy"
+        ],
+        "learned_moves": [
+            {
+                "name": "teddy tumble",
+                "reason": "Level 10"
+            },
+            {
+                "name": "puff up",
+                "reason": "(replace charm)"
+            },
+            {
+                "name": "snug strike",
+                "reason": "Level 36"
+            },
+            {
+                "name": "fluffy fury",
+                "reason": "(replace trump card)"
+            }
+        ]
+    },
+    "Vaporeon": {
+        "types": [
+            "Water",
+            "Liquid",
+            "Furry"
+        ],
+        "learned_moves": [
+            {
+                "name": "liquidation",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Jolteon": {
+        "types": [
+            "Electric",
+            "Sharp"
+        ],
+        "learned_moves": [
+            {
+                "name": "razor wind",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Flareon": {
+        "types": [
+            "Fire",
+            "Fluffy"
+        ],
+        "learned_moves": [
+            {
+                "name": "warm hug",
+                "reason": "Level 31"
+            },
+            {
+                "name": "snug strike",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Espeon": {
+        "types": [
+            "Psychic",
+            "Space"
+        ],
+        "learned_moves": [
+            {
+                "name": "starstrike",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Umbreon": {
+        "types": [
+            "Dark",
+            "Space"
+        ],
+        "learned_moves": [
+            {
+                "name": "meteor mash",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Leafeon": {
+        "types": [
+            "Grass",
+            "Vibe"
+        ],
+        "learned_moves": [
+            {
+                "name": "vibe check",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Glaceon": {
+        "types": [
+            "Ice",
+            "Magic"
+        ],
+        "learned_moves": [
+            {
+                "name": "magic missile",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Sylveon": {
+        "types": [
+            "Fairy",
+            "Gender"
+        ],
+        "learned_moves": [
+            {
+                "name": "dazzling gleam",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Girafarig": {
+        "types": [
+            "Silly",
+            "Psychic",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "squirting flower",
+                "reason": "Level 25"
+            },
+            {
+                "name": "peer pressure",
+                "reason": "Level 48"
+            }
+        ]
+    },
+    "Stantler": {
+        "types": [
+            "Boring",
+            "Ugly"
+        ],
+        "learned_moves": [
+            {
+                "name": "covet",
+                "reason": "Level 14"
+            },
+            {
+                "name": "9 to 5",
+                "reason": "Level 40"
+            }
+        ]
+    },
+    "Buneary": {
+        "types": [
+            "Fluffy"
+        ],
+        "learned_moves": [
+            {
+                "name": "teddy tumble",
+                "reason": "Level 3"
+            },
+            {
+                "name": "plush punch",
+                "reason": "Level 28"
+            },
+            {
+                "name": "warm hug",
+                "reason": "Level 34"
+            },
+            {
+                "name": "snug strike",
+                "reason": "Level 38"
+            },
+            {
+                "name": "fluffy fury",
+                "reason": "Level 45"
+            },
+            {
+                "name": "puff_up 46",
+                "reason": "(replace charm)"
+            }
+        ]
+    },
+    "Lopunny": {
+        "types": [
+            "Fluffy",
+            "Furry"
+        ],
+        "learned_moves": [
+            {
+                "name": "glomp",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "teddy tumble",
+                "reason": "Level 3"
+            },
+            {
+                "name": "plush punch",
+                "reason": "Level 28"
+            },
+            {
+                "name": "warm hug",
+                "reason": "Level 34"
+            },
+            {
+                "name": "snug strike",
+                "reason": "Level 38"
+            },
+            {
+                "name": "fluffy fury",
+                "reason": "Level 45"
+            },
+            {
+                "name": "puff_up 46",
+                "reason": "(replace charm)"
+            },
+            {
+                "name": "owo",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Slugma": {
+        "types": [
+            "Liquid",
+            "Deez Nuts"
+        ],
+        "learned_moves": [
+            {
+                "name": "liquidation",
+                "reason": "Level 35"
+            }
+        ]
+    },
+    "Magcargo": {
+        "types": [
+            "Liquid",
+            "Deez Nuts"
+        ],
+        "learned_moves": [
+            {
+                "name": "liquidation",
+                "reason": "Level 35"
+            }
+        ]
+    },
+    "Dunsparce": {
+        "types": [
+            "Boring",
+            "Silly"
+        ],
+        "learned_moves": [
+            {
+                "name": "send email",
+                "reason": "Level 19"
+            },
+            {
+                "name": "file w9",
+                "reason": "Level 25"
+            },
+            {
+                "name": "9to5",
+                "reason": "Level 38"
+            },
+            {
+                "name": "eat cracker",
+                "reason": "Level 42"
+            },
+            {
+                "name": "wait",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Magby": {
+        "types": [
+            "Fire",
+            "Baby"
+        ],
+        "learned_moves": [
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Magmar": {
+        "types": [
+            "Fire",
+            "Zoomer"
+        ],
+        "learned_moves": [
+            {
+                "name": "clear smog",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Magmortar": {
+        "types": [
+            "Fire",
+            "Left",
+            "Gun"
+        ],
+        "learned_moves": [
+            {
+                "name": "protest",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "mirror shot",
+                "reason": "Level 45"
+            },
+            {
+                "name": "shoot",
+                "reason": "Level 53"
+            }
+        ]
+    },
+    "Machop": {
+        "types": [
+            "Fighting",
+            "Stinky"
+        ],
+        "learned_moves": [
+            {
+                "name": "axe",
+                "reason": "Level 16"
+            }
+        ]
+    },
+    "Machoke": {
+        "types": [
+            "Fighting",
+            "Stinky"
+        ],
+        "learned_moves": [
+            {
+                "name": "axe",
+                "reason": "Level 16"
+            }
+        ]
+    },
+    "Machamp": {
+        "types": [
+            "Fighting",
+            "Crab"
+        ],
+        "learned_moves": [
+            {
+                "name": "carcinization",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "crabhammer",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Diglett": {
+        "types": [
+            "Smash"
+        ],
+        "learned_moves": [
+            {
+                "name": "fury swipes",
+                "reason": "Level 15"
+            }
+        ]
+    },
+    "Dugtrio": {
+        "types": [
+            "Smash",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "fury swipes",
+                "reason": "Level 15"
+            },
+            {
+                "name": "kiss the homies",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Koffing": {
+        "types": [
+            "Poison",
+            "Stinky"
+        ],
+        "learned_moves": [
+            {
+                "name": "pee yew!",
+                "reason": "Level 12"
+            },
+            {
+                "name": "stink bomb",
+                "reason": "Level 15"
+            },
+            {
+                "name": "uh oh stinky",
+                "reason": "Level 20"
+            }
+        ]
+    },
+    "Weezing": {
+        "types": [
+            "Poison",
+            "Stinky",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "pee yew!",
+                "reason": "Level 12"
+            },
+            {
+                "name": "stink bomb",
+                "reason": "Level 15"
+            },
+            {
+                "name": "uh oh stinky",
+                "reason": "Level 20"
+            }
+        ]
+    },
+    "Grimer": {
+        "types": [
+            "Liquid",
+            "Poison"
+        ],
+        "learned_moves": [
+            {
+                "name": "stink bomb",
+                "reason": "Level 18"
+            },
+            {
+                "name": "liquidation",
+                "reason": "Level 35"
+            }
+        ]
+    },
+    "Muk": {
+        "types": [
+            "Liquid",
+            "Poison"
+        ],
+        "learned_moves": [
+            {
+                "name": "stink bomb",
+                "reason": "Level 18"
+            },
+            {
+                "name": "liquidation",
+                "reason": "Level 35"
+            }
+        ]
+    },
+    "Throh": {
+        "types": [
+            "Fighting",
+            "Stinky"
+        ],
+        "learned_moves": [
+            {
+                "name": "pee yew!",
+                "reason": "Level 7"
+            },
+            {
+                "name": "uh oh stinky",
+                "reason": "Level 15"
+            },
+            {
+                "name": "axe",
+                "reason": "Level 27"
+            },
+            {
+                "name": "born to shit",
+                "reason": "Level 40"
+            }
+        ]
+    },
+    "Sawk": {
+        "types": [
+            "Fighting",
+            "Deez Nuts"
+        ],
+        "learned_moves": [
+            {
+                "name": "pee yew!",
+                "reason": "Level 7"
+            },
+            {
+                "name": "uh oh stinky",
+                "reason": "Level 15"
+            },
+            {
+                "name": "axe",
+                "reason": "Level 27"
+            },
+            {
+                "name": "born to shit",
+                "reason": "Level 40"
+            }
+        ]
+    },
+    "Spinda": {
+        "types": [
+            "Silly",
+            "Dance",
+            "Friend"
+        ],
+        "learned_moves": [
+            {
+                "name": "happy feet",
+                "reason": "(idk)"
+            },
+            {
+                "name": "hypno goggles 19",
+                "reason": "(replace hypnosis)"
+            }
+        ]
+    },
+    "Skarmory": {
+        "types": [
+            "Bad",
+            "Sharp",
+            "Flying"
+        ],
+        "learned_moves": []
+    },
+    "Axew": {
+        "types": [
+            "Little",
+            "Dragon"
+        ],
+        "learned_moves": []
+    },
+    "Fraxure": {
+        "types": [
+            "Bad",
+            "Dragon"
+        ],
+        "learned_moves": []
+    },
+    "Haxorus": {
+        "types": [
+            "Bad",
+            "Dragon"
+        ],
+        "learned_moves": []
+    },
+    "Elekid": {
+        "types": [
+            "Electric",
+            "Baby"
+        ],
+        "learned_moves": [
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Electabuzz": {
+        "types": [
+            "Electric",
+            "Zoomer"
+        ],
+        "learned_moves": [
+            {
+                "name": "metal pipe",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Electivire": {
+        "types": [
+            "Electric",
+            "Right",
+            "Gamer"
+        ],
+        "learned_moves": [
+            {
+                "name": "riot",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "wombo combo",
+                "reason": "Level 45"
+            }
+        ]
+    },
+    "Honedge": {
+        "types": [
+            "Sharp",
+            "Ghost"
+        ],
+        "learned_moves": []
+    },
+    "Doublade": {
+        "types": [
+            "Sharp",
+            "Ghost",
+            "Guys"
+        ],
+        "learned_moves": []
+    },
+    "Aegislash": {
+        "types": [
+            "Sharp",
+            "Ghost"
+        ],
+        "learned_moves": []
+    },
+    "Binacle": {
+        "types": [
+            "Rock",
+            "Water",
+            "Guys"
+        ],
+        "learned_moves": []
+    },
+    "Barbaracle": {
+        "types": [
+            "Rock",
+            "Crab",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "carcinization",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Swablu": {
+        "types": [
+            "Fluffy",
+            "Song",
+            "Flying"
+        ],
+        "learned_moves": [
+            {
+                "name": "puff up",
+                "reason": "Level 12"
+            },
+            {
+                "name": "fluffy fury",
+                "reason": "Level 23"
+            }
+        ]
+    },
+    "Altaria": {
+        "types": [
+            "Fluffy",
+            "Song",
+            "Flying"
+        ],
+        "learned_moves": [
+            {
+                "name": "puff up",
+                "reason": "Level 12"
+            },
+            {
+                "name": "fluffy fury",
+                "reason": "Level 23"
+            }
+        ]
+    },
+    "Porygon": {
+        "types": [
+            "Prime",
+            "Gamer"
+        ],
+        "learned_moves": [
+            {
+                "name": "hype train",
+                "reason": "Level 7"
+            },
+            {
+                "name": "content",
+                "reason": "Level 20"
+            },
+            {
+                "name": "prime sub",
+                "reason": "Level 37"
+            }
+        ]
+    },
+    "Porygon 2": {
+        "types": [
+            "Prime",
+            "Zoomer",
+            "Normal2"
+        ],
+        "learned_moves": [
+            {
+                "name": "conversion 2",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "hype train",
+                "reason": "Level 7"
+            },
+            {
+                "name": "content",
+                "reason": "Level 20"
+            },
+            {
+                "name": "prime sub",
+                "reason": "Level 37"
+            }
+        ]
+    },
+    "Porygon-Z": {
+        "types": [
+            "Sus",
+            "Gamer"
+        ],
+        "learned_moves": [
+            {
+                "name": "screen peek",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "sabotage",
+                "reason": "Level 37"
+            }
+        ]
+    },
+    "Stunfisk": {
+        "types": [
+            "Ground",
+            "Electric",
+            "Sus"
+        ],
+        "learned_moves": []
+    },
+    "Lunatone": {
+        "types": [
+            "Rock",
+            "Space"
+        ],
+        "learned_moves": [
+            {
+                "name": "swift",
+                "reason": "Level 13"
+            },
+            {
+                "name": "starstrike",
+                "reason": "Level 29"
+            }
+        ]
+    },
+    "Solrock": {
+        "types": [
+            "Rock",
+            "Space"
+        ],
+        "learned_moves": [
+            {
+                "name": "swift",
+                "reason": "Level 13"
+            },
+            {
+                "name": "starstrike",
+                "reason": "Level 29"
+            }
+        ]
+    },
+    "Corphish": {
+        "types": [
+            "Crab",
+            "Vibe"
+        ],
+        "learned_moves": [
+            {
+                "name": "carcinization",
+                "reason": "Level 25"
+            }
+        ]
+    },
+    "Crawdaunt": {
+        "types": [
+            "Crab",
+            "Angy"
+        ],
+        "learned_moves": [
+            {
+                "name": "carcinization",
+                "reason": "Level 25"
+            }
+        ]
+    },
+    "Cleffa": {
+        "types": [
+            "Baby",
+            "Space",
+            "Fairy"
+        ],
+        "learned_moves": [
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Clefairy": {
+        "types": [
+            "Space",
+            "Fairy"
+        ],
+        "learned_moves": [
+            {
+                "name": "pillow fight",
+                "reason": "Level 10"
+            },
+            {
+                "name": "swift",
+                "reason": "Level 17"
+            }
+        ]
+    },
+    "Clefable": {
+        "types": [
+            "Space",
+            "Fairy"
+        ],
+        "learned_moves": [
+            {
+                "name": "starstrike",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Elgyem": {
+        "types": [
+            "Space"
+        ],
+        "learned_moves": [
+            {
+                "name": "swift",
+                "reason": "Level 18"
+            },
+            {
+                "name": "starstrike",
+                "reason": "Level 39"
+            }
+        ]
+    },
+    "Beheeyem": {
+        "types": [
+            "Space"
+        ],
+        "learned_moves": [
+            {
+                "name": "starstrike",
+                "reason": "Level 39"
+            }
+        ]
+    },
+    "Hatenna": {
+        "types": [
+            "Vibe",
+            "Magic"
+        ],
+        "learned_moves": [
+            {
+                "name": "hey chill",
+                "reason": "Level 10"
+            },
+            {
+                "name": "eldritch blast",
+                "reason": "(replace aromatherapy)"
+            },
+            {
+                "name": "magic missile",
+                "reason": "Level 20"
+            }
+        ]
+    },
+    "Hattrem": {
+        "types": [
+            "Vibe",
+            "Magic"
+        ],
+        "learned_moves": []
+    },
+    "Hattrene": {
+        "types": [
+            "Vibe",
+            "Magic"
+        ],
+        "learned_moves": [
+            {
+                "name": "vibe check",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "uplift",
+                "reason": "Level 46"
+            }
+        ]
+    },
+    "Falinks": {
+        "types": [
+            "Silly",
+            "Little",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "dab me up",
+                "reason": "Level 12"
+            },
+            {
+                "name": "beat up",
+                "reason": "Level 18"
+            },
+            {
+                "name": "unionize",
+                "reason": "Level 23"
+            },
+            {
+                "name": "kiss the homies",
+                "reason": "Level 32"
+            },
+            {
+                "name": "dizzy punch",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Rockruff": {
+        "types": [
+            "Rock",
+            "Friend"
+        ],
+        "learned_moves": []
+    },
+    "Lycanroc(D)": {
+        "types": [
+            "Rock",
+            "Angy"
+        ],
+        "learned_moves": [
+            {
+                "name": "rawr xd",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Lycanroc(N)": {
+        "types": [
+            "Rock",
+            "Furry"
+        ],
+        "learned_moves": [
+            {
+                "name": "rawr xd",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Galarian Ponyta": {
+        "types": [
+            "Friend",
+            "Gender",
+            "Magic"
+        ],
+        "learned_moves": [
+            {
+                "name": "wavedash",
+                "reason": "(replace fairy wind)"
+            },
+            {
+                "name": "magic missile",
+                "reason": "(replace confusion)"
+            }
+        ]
+    },
+    "Galarian Rapidash": {
+        "types": [
+            "Friend",
+            "Gender",
+            "Magic"
+        ],
+        "learned_moves": [
+            {
+                "name": "trans rights",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "wavedash",
+                "reason": "(replace fairy wind)"
+            },
+            {
+                "name": "magic missile",
+                "reason": "(replace confusion)"
+            }
+        ]
+    },
+    "Lickitung": {
+        "types": [
+            "Right",
+            "Sus"
+        ],
+        "learned_moves": []
+    },
+    "Lickilicky": {
+        "types": [
+            "Right",
+            "Sus",
+            "Prime"
+        ],
+        "learned_moves": []
+    },
+    "Scraggy": {
+        "types": [
+            "Dance",
+            "Zoomer",
+            "Fighting"
+        ],
+        "learned_moves": [
+            {
+                "name": "metal pipe",
+                "reason": "Level 18"
+            },
+            {
+                "name": "break it down",
+                "reason": "Level 30"
+            },
+            {
+                "name": "static shuffle",
+                "reason": "(replace chip away)"
+            }
+        ]
+    },
+    "Scrafty": {
+        "types": [
+            "Dance",
+            "Zoomer",
+            "Fighting"
+        ],
+        "learned_moves": [
+            {
+                "name": "metal pipe",
+                "reason": "Level 18"
+            },
+            {
+                "name": "break it down",
+                "reason": "Level 30"
+            },
+            {
+                "name": "static shuffle",
+                "reason": "(replace chip away)"
+            }
+        ]
+    },
+    "Voltorb": {
+        "types": [
+            "Angy",
+            "Ball"
+        ],
+        "learned_moves": []
+    },
+    "Electrode": {
+        "types": [
+            "Angy",
+            "Boomer",
+            "Ball"
+        ],
+        "learned_moves": []
+    },
+    "Sandile": {
+        "types": [
+            "Bad",
+            "Ground"
+        ],
+        "learned_moves": []
+    },
+    "Krokorok": {
+        "types": [
+            "Bad",
+            "Ground"
+        ],
+        "learned_moves": [
+            {
+                "name": "body slam",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Krookodile": {
+        "types": [
+            "Bad",
+            "Ground"
+        ],
+        "learned_moves": []
+    },
+    "Rufflet": {
+        "types": [
+            "Flying",
+            "Baby"
+        ],
+        "learned_moves": [
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Braviary": {
+        "types": [
+            "Ohio",
+            "Right",
+            "Flying"
+        ],
+        "learned_moves": [
+            {
+                "name": "riot",
+                "reason": "Level 40"
+            },
+            {
+                "name": "rootintootin",
+                "reason": "Level 43"
+            }
+        ]
+    },
+    "Vullaby": {
+        "types": [
+            "Dark",
+            "Flying",
+            "Baby"
+        ],
+        "learned_moves": [
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Mandibuzz": {
+        "types": [
+            "Dark",
+            "Flying",
+            "Left"
+        ],
+        "learned_moves": []
+    },
+    "Hoppip": {
+        "types": [
+            "Grass",
+            "Friend"
+        ],
+        "learned_moves": [
+            {
+                "name": "warm hug",
+                "reason": "Level 20"
+            }
+        ]
+    },
+    "Skiploom": {
+        "types": [
+            "Grass",
+            "Friend"
+        ],
+        "learned_moves": [
+            {
+                "name": "warm hug",
+                "reason": "Level 20"
+            }
+        ]
+    },
+    "Jumpluff": {
+        "types": [
+            "Grass",
+            "Friend"
+        ],
+        "learned_moves": [
+            {
+                "name": "pollen puff",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Tyrogue": {
+        "types": [
+            "Fighting",
+            "Zoomer"
+        ],
+        "learned_moves": []
+    },
+    "Hitmonlee": {
+        "types": [
+            "Fighting",
+            "Left"
+        ],
+        "learned_moves": [
+            {
+                "name": "protest",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Hitmonchan": {
+        "types": [
+            "Fighting",
+            "Right"
+        ],
+        "learned_moves": [
+            {
+                "name": "riot",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Hitmontop": {
+        "types": [
+            "Fighting",
+            "Dance"
+        ],
+        "learned_moves": [
+            {
+                "name": "break it down",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Lapras": {
+        "types": [
+            "Water",
+            "Ice",
+            "Ancient"
+        ],
+        "learned_moves": []
+    },
+    "Remoraid": {
+        "types": [
+            "Prime",
+            "Gun"
+        ],
+        "learned_moves": [
+            {
+                "name": "shoot",
+                "reason": "Level 40"
+            }
+        ]
+    },
+    "Octillery": {
+        "types": [
+            "Water",
+            "Gun"
+        ],
+        "learned_moves": [
+            {
+                "name": "shoot",
+                "reason": "Level 40"
+            }
+        ]
+    },
+    "Wishiwashi": {
+        "types": [
+            "Little",
+            "Water"
+        ],
+        "learned_moves": [
+            {
+                "name": "pillow fight",
+                "reason": "Level 11"
+            }
+        ]
+    },
+    "Wishiwasi-School": {
+        "types": [
+            "Little",
+            "Water",
+            "Guys"
+        ],
+        "learned_moves": []
+    },
+    "Horsea": {
+        "types": [
+            "Water",
+            "Gun"
+        ],
+        "learned_moves": []
+    },
+    "Seadra": {
+        "types": [
+            "Water",
+            "Gun"
+        ],
+        "learned_moves": []
+    },
+    "Kingdra": {
+        "types": [
+            "Water",
+            "Dragon",
+            "Gun"
+        ],
+        "learned_moves": [
+            {
+                "name": "shoot",
+                "reason": "Level 43"
+            }
+        ]
+    },
+    "Wimpod": {
+        "types": [
+            "Silly",
+            "Little",
+            "Bug"
+        ],
+        "learned_moves": []
+    },
+    "Golisopod": {
+        "types": [
+            "Angy",
+            "Bug"
+        ],
+        "learned_moves": []
+    },
+    "Luvdisc": {
+        "types": [
+            "Ugly",
+            "Friend"
+        ],
+        "learned_moves": []
+    },
+    "Dracozolt": {
+        "types": [
+            "Silly",
+            "Ancient",
+            "Electric"
+        ],
+        "learned_moves": []
+    },
+    "Arctozolt": {
+        "types": [
+            "Silly",
+            "Ancient",
+            "Ice"
+        ],
+        "learned_moves": []
+    },
+    "Dracovish": {
+        "types": [
+            "Silly",
+            "Ancient",
+            "Dragon"
+        ],
+        "learned_moves": []
+    },
+    "Arctovish": {
+        "types": [
+            "Silly",
+            "Ancient",
+            "Water"
+        ],
+        "learned_moves": []
+    },
+    "Foongus": {
+        "types": [
+            "Sus"
+        ],
+        "learned_moves": [
+            {
+                "name": "eject",
+                "reason": "Level 22"
+            },
+            {
+                "name": "vent",
+                "reason": "Level 30"
+            },
+            {
+                "name": "sabotage",
+                "reason": "Level 33"
+            }
+        ]
+    },
+    "Amoongus": {
+        "types": [
+            "Sus"
+        ],
+        "learned_moves": [
+            {
+                "name": "imposter",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "eject",
+                "reason": "Level 22"
+            },
+            {
+                "name": "vent",
+                "reason": "Level 30"
+            },
+            {
+                "name": " sabotage",
+                "reason": "Level 33"
+            }
+        ]
+    },
+    "Zorua": {
+        "types": [
+            "Sus",
+            "Fluffy"
+        ],
+        "learned_moves": [
+            {
+                "name": "vent",
+                "reason": "Level 27"
+            },
+            {
+                "name": "eject",
+                "reason": "Level 30"
+            },
+            {
+                "name": "sabotage",
+                "reason": "Level 35"
+            }
+        ]
+    },
+    "Zoroark": {
+        "types": [
+            "Sus",
+            "Furry"
+        ],
+        "learned_moves": [
+            {
+                "name": "vent",
+                "reason": "Level 27"
+            },
+            {
+                "name": "eject",
+                "reason": "Level 30"
+            },
+            {
+                "name": "sabotage",
+                "reason": "Level 35"
+            }
+        ]
+    },
+    "Venonat": {
+        "types": [
+            "Bug",
+            "Poison",
+            "Fluffy"
+        ],
+        "learned_moves": [
+            {
+                "name": "puff up",
+                "reason": "Level 7"
+            },
+            {
+                "name": "magic missile",
+                "reason": "Level 24"
+            },
+            {
+                "name": "ponder",
+                "reason": "Level 27"
+            }
+        ]
+    },
+    "Venomoth": {
+        "types": [
+            "Bug",
+            "Poison",
+            "Magic"
+        ],
+        "learned_moves": [
+            {
+                "name": "fireball",
+                "reason": "Level 41"
+            }
+        ]
+    },
+    "Zangoose": {
+        "types": [
+            "Normal",
+            "Left"
+        ],
+        "learned_moves": [
+            {
+                "name": "protest",
+                "reason": "Level 28"
+            }
+        ]
+    },
+    "Seviper": {
+        "types": [
+            "Poison",
+            "Right"
+        ],
+        "learned_moves": [
+            {
+                "name": "riot",
+                "reason": "Level 28"
+            }
+        ]
+    },
+    "Kangaskhan": {
+        "types": [
+            "Normal",
+            "Guys"
+        ],
+        "learned_moves": []
+    },
+    "Feebas": {
+        "types": [
+            "Water",
+            "Ugly"
+        ],
+        "learned_moves": []
+    },
+    "Milotic": {
+        "types": [
+            "Water",
+            "Gender"
+        ],
+        "learned_moves": []
+    },
+    "Ditto": {
+        "types": [
+            "Sus",
+            "Liquid"
+        ],
+        "learned_moves": []
+    },
+    "Kecleon": {
+        "types": [
+            "Type"
+        ],
+        "learned_moves": []
+    },
+    "Bouffalant": {
+        "types": [
+            "Ohio"
+        ],
+        "learned_moves": [
+            {
+                "name": "rodeo",
+                "reason": "Level 24"
+            },
+            {
+                "name": "rootintootin",
+                "reason": "Level 36"
+            },
+            {
+                "name": "riot",
+                "reason": "Level 38"
+            },
+            {
+                "name": "barbecue",
+                "reason": "Level 44"
+            }
+        ]
+    },
+    "Absol": {
+        "types": [
+            "Prime",
+            "Bad"
+        ],
+        "learned_moves": [
+            {
+                "name": "hype train",
+                "reason": "Level 21"
+            },
+            {
+                "name": "content",
+                "reason": "Level 28"
+            },
+            {
+                "name": "prime sub",
+                "reason": "Level 31"
+            }
+        ]
+    },
+    "Deino": {
+        "types": [
+            "Angy",
+            "Dragon"
+        ],
+        "learned_moves": []
+    },
+    "Zweilous": {
+        "types": [
+            "Angy",
+            "Dragon",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "peer pressure",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Hydreigon": {
+        "types": [
+            "Angy",
+            "Dragon",
+            "Guys"
+        ],
+        "learned_moves": []
+    },
+    "Komala": {
+        "types": [
+            "Dream",
+            "Fluffy"
+        ],
+        "learned_moves": [
+            {
+                "name": "cuddle slam",
+                "reason": "(replace slam)"
+            },
+            {
+                "name": "somnium",
+                "reason": "Level 23"
+            }
+        ]
+    },
+    "Dwebble": {
+        "types": [
+            "Rock",
+            "Crab"
+        ],
+        "learned_moves": []
+    },
+    "Crustle": {
+        "types": [
+            "Rock",
+            "Crab"
+        ],
+        "learned_moves": []
+    },
+    "Teddiursa": {
+        "types": [
+            "Baby",
+            "Zoomer"
+        ],
+        "learned_moves": [
+            {
+                "name": "teddy tumble",
+                "reason": "Level 20"
+            },
+            {
+                "name": "plush punch",
+                "reason": "Level 32"
+            },
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Ursaring": {
+        "types": [
+            "Boomer"
+        ],
+        "learned_moves": [
+            {
+                "name": "teddy tumble",
+                "reason": "Level 20"
+            },
+            {
+                "name": "plush punch",
+                "reason": "Level 32"
+            }
+        ]
+    },
+    "Bounsweet": {
+        "types": [
+            "Grass",
+            "Bean"
+        ],
+        "learned_moves": [
+            {
+                "name": "sweet cocoa(idk)",
+                "reason": "(idk)"
+            },
+            {
+                "name": "chickpea charm(idk)",
+                "reason": "(idk)"
+            },
+            {
+                "name": "sugar snap(idk)",
+                "reason": "(idk)"
+            }
+        ]
+    },
+    "Steene": {
+        "types": [
+            "Grass",
+            "Bean"
+        ],
+        "learned_moves": [
+            {
+                "name": "pea split",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "sip coffee(idk)",
+                "reason": "(idk)"
+            }
+        ]
+    },
+    "Tsareena": {
+        "types": [
+            "Grass",
+            "Smash"
+        ],
+        "learned_moves": [
+            {
+                "name": "submission",
+                "reason": "(on evo)"
+            },
+            {
+                "name": " soy shield(idk)",
+                "reason": "(idk)"
+            }
+        ]
+    },
+    "Mimikyu": {
+        "types": [
+            "Ghost",
+            "Sus"
+        ],
+        "learned_moves": [
+            {
+                "name": "imposter",
+                "reason": "Level 25"
+            },
+            {
+                "name": "vent",
+                "reason": "Level 35"
+            }
+        ]
+    },
+    "Maractus": {
+        "types": [
+            "Grass",
+            "Dance"
+        ],
+        "learned_moves": [
+            {
+                "name": "static shuffle",
+                "reason": "(idk)"
+            },
+            {
+                "name": "happy feet",
+                "reason": "(idk)"
+            },
+            {
+                "name": "cha cha",
+                "reason": "(replace ingrain)"
+            }
+        ]
+    },
+    "Seedot": {
+        "types": [
+            "Bean"
+        ],
+        "learned_moves": [
+            {
+                "name": "pinto power",
+                "reason": "(replace growth)"
+            }
+        ]
+    },
+    "Nuzleaf": {
+        "types": [
+            "Bean",
+            "Zoomer"
+        ],
+        "learned_moves": [
+            {
+                "name": "lima lash",
+                "reason": "(replace razor wind)"
+            }
+        ]
+    },
+    "Shiftry": {
+        "types": [
+            "Bean",
+            "Ugly"
+        ],
+        "learned_moves": [
+            {
+                "name": "kidney crash",
+                "reason": "Level 38"
+            },
+            {
+                "name": "bean bomb",
+                "reason": "(idk)"
+            },
+            {
+                "name": "sip coffee",
+                "reason": "(idk)"
+            },
+            {
+                "name": "soy shield",
+                "reason": "(idk)"
+            }
+        ]
+    },
+    "Snubbull": {
+        "types": [
+            "Ugly"
+        ],
+        "learned_moves": []
+    },
+    "Granbul": {
+        "types": [
+            "Boomer"
+        ],
+        "learned_moves": []
+    },
+    "Smeargul": {
+        "types": [
+            "Type"
+        ],
+        "learned_moves": []
+    },
+    "Type: Null": {
+        "types": [
+            "Type"
+        ],
+        "learned_moves": []
+    },
+    "Silvally": {
+        "types": [
+            "Normal2",
+            "Type"
+        ],
+        "learned_moves": []
+    },
+    "Crabrawler": {
+        "types": [
+            "Prime",
+            "Fighting",
+            "Crab"
+        ],
+        "learned_moves": [
+            {
+                "name": "vise grip",
+                "reason": "(replace bubblebeam)"
+            },
+            {
+                "name": "carcinization",
+                "reason": "Level 44"
+            }
+        ]
+    },
+    "Crabominable": {
+        "types": [
+            "Ugly",
+            "Ice",
+            "Crab"
+        ],
+        "learned_moves": [
+            {
+                "name": "vise grip",
+                "reason": "(replace bubblebeam)"
+            },
+            {
+                "name": "carcinization",
+                "reason": "Level 44"
+            }
+        ]
+    },
+    "Drowzee": {
+        "types": [
+            "Dream"
+        ],
+        "learned_moves": [
+            {
+                "name": "eerie echo",
+                "reason": "(replace confusion)"
+            },
+            {
+                "name": "lullaby",
+                "reason": "(replace headbutt)"
+            },
+            {
+                "name": "etherwave",
+                "reason": "(replace psybeam)"
+            },
+            {
+                "name": "somnium",
+                "reason": "(replace psych up)"
+            },
+            {
+                "name": "spectral surge",
+                "reason": "(replace psychic)"
+            }
+        ]
+    },
+    "Hypno": {
+        "types": [
+            "Right",
+            "Boomer"
+        ],
+        "learned_moves": []
+    },
+    "Duskull": {
+        "types": [
+            "Ghost",
+            "Gamer"
+        ],
+        "learned_moves": []
+    },
+    "Dusclops": {
+        "types": [
+            "Ghost",
+            "Reverse",
+            "Gamer"
+        ],
+        "learned_moves": []
+    },
+    "Dusknoir": {
+        "types": [
+            "Ghost",
+            "Reverse",
+            "Gamer"
+        ],
+        "learned_moves": [
+            {
+                "name": "uno reverse",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "5 nights",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Klefki": {
+        "types": [
+            "Little",
+            "Boring"
+        ],
+        "learned_moves": []
+    },
+    "Munna": {
+        "types": [
+            "Dream",
+            "Magic"
+        ],
+        "learned_moves": [
+            {
+                "name": "eerie echo",
+                "reason": "(replace confusion)"
+            },
+            {
+                "name": "magic missile",
+                "reason": "(replace psywave)"
+            },
+            {
+                "name": "lullaby",
+                "reason": "(zen headbutt)"
+            },
+            {
+                "name": "somnium",
+                "reason": "(replace psychic)"
+            },
+            {
+                "name": "spectral surge",
+                "reason": "(replace moon blast)"
+            }
+        ]
+    },
+    "Musharna": {
+        "types": [
+            "Dream",
+            "Magic"
+        ],
+        "learned_moves": [
+            {
+                "name": "eerie echo",
+                "reason": "(replace confusion)"
+            },
+            {
+                "name": "magic missile",
+                "reason": "(replace psywave)"
+            },
+            {
+                "name": "lullaby",
+                "reason": "(zen headbutt)"
+            },
+            {
+                "name": "somnium",
+                "reason": "(replace psychic)"
+            },
+            {
+                "name": "spectral surge",
+                "reason": "(replace moon blast)"
+            }
+        ]
+    },
+    "Chingling": {
+        "types": [
+            "Song"
+        ],
+        "learned_moves": []
+    },
+    "Chimecho": {
+        "types": [
+            "Song"
+        ],
+        "learned_moves": []
+    },
+    "Dreepy": {
+        "types": [
+            "Gun",
+            "Ghost",
+            "Baby"
+        ],
+        "learned_moves": [
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Drakloak": {
+        "types": [
+            "Gun",
+            "Ghost",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "unionize",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "dab me up",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Dragapult": {
+        "types": [
+            "Gun",
+            "Ghost",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "shoot",
+                "reason": "Level 51"
+            }
+        ]
+    },
+    "Oranguru": {
+        "types": [
+            "Monke",
+            "Stinky"
+        ],
+        "learned_moves": [
+            {
+                "name": "ooga booga",
+                "reason": "Level 7"
+            },
+            {
+                "name": "unga bunga",
+                "reason": "Level 17"
+            },
+            {
+                "name": "uhohstinky",
+                "reason": "Level 34"
+            }
+        ]
+    },
+    "Passimian": {
+        "types": [
+            "Monke",
+            "Ball"
+        ],
+        "learned_moves": [
+            {
+                "name": "ooga booga",
+                "reason": "Level 7"
+            },
+            {
+                "name": "unga bunga",
+                "reason": "Level 17"
+            },
+            {
+                "name": "let me ball",
+                "reason": "Level 27"
+            },
+            {
+                "name": "banana blitz",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Chatot": {
+        "types": [
+            "Song"
+        ],
+        "learned_moves": []
+    },
+    "Wailmer": {
+        "types": [
+            "Smash"
+        ],
+        "learned_moves": [
+            {
+                "name": "let me ball",
+                "reason": "Level 18"
+            }
+        ]
+    },
+    "Wailord": {
+        "types": [
+            "Smash"
+        ],
+        "learned_moves": [
+            {
+                "name": "let me ball",
+                "reason": "Level 18"
+            }
+        ]
+    },
+    "Spheal": {
+        "types": [
+            "Silly",
+            "Friend",
+            "Ball"
+        ],
+        "learned_moves": [
+            {
+                "name": "let me ball",
+                "reason": "Level 16"
+            },
+            {
+                "name": "squirting flower",
+                "reason": "Level 20"
+            },
+            {
+                "name": "toon up",
+                "reason": "Level 32"
+            }
+        ]
+    },
+    "Sealeo": {
+        "types": [
+            "Silly",
+            "Ice",
+            "Ball"
+        ],
+        "learned_moves": []
+    },
+    "Walrein": {
+        "types": [
+            "Silly",
+            "Ice",
+            "Ball"
+        ],
+        "learned_moves": [
+            {
+                "name": "let me ball",
+                "reason": "Level 16"
+            },
+            {
+                "name": "squirting flower",
+                "reason": "Level 20"
+            },
+            {
+                "name": "toon up",
+                "reason": "Level 32"
+            }
+        ]
+    },
+    "Shellos": {
+        "types": [
+            "Water",
+            "Vibe"
+        ],
+        "learned_moves": []
+    },
+    "Gastrodon": {
+        "types": [
+            "OU",
+            "Ground"
+        ],
+        "learned_moves": []
+    },
+    "Pyukumuku": {
+        "types": [
+            "Water",
+            "Bean"
+        ],
+        "learned_moves": [
+            {
+                "name": "sweet cocoa",
+                "reason": "Level 15"
+            }
+        ]
+    },
+    "Relicanth": {
+        "types": [
+            "Water",
+            "Ancient"
+        ],
+        "learned_moves": []
+    },
+    "Impidimp": {
+        "types": [
+            "Dark",
+            "Reverse",
+            "Gamer"
+        ],
+        "learned_moves": []
+    },
+    "Morgrem": {
+        "types": [
+            "Dark",
+            "Reverse",
+            "Gamer"
+        ],
+        "learned_moves": []
+    },
+    "Grimsnarl": {
+        "types": [
+            "Dark",
+            "Reverse",
+            "Gamer"
+        ],
+        "learned_moves": [
+            {
+                "name": "uno reverse",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Zubat": {
+        "types": [
+            "Boring",
+            "Poison",
+            "Flying"
+        ],
+        "learned_moves": []
+    },
+    "Golbat": {
+        "types": [
+            "Boring",
+            "Poison",
+            "Flying"
+        ],
+        "learned_moves": []
+    },
+    "Crobat": {
+        "types": [
+            "Flying",
+            "Poison",
+            "Friend"
+        ],
+        "learned_moves": []
+    },
+    "Darumaka": {
+        "types": [
+            "Fire",
+            "Monke",
+            "Dance"
+        ],
+        "learned_moves": [
+            {
+                "name": "happy feet",
+                "reason": "(idk)"
+            },
+            {
+                "name": "ooga booga",
+                "reason": "Level 7"
+            },
+            {
+                "name": "unga bunga",
+                "reason": "Level 17"
+            },
+            {
+                "name": "banana blitz",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Darmanitan": {
+        "types": [
+            "Angy",
+            "Fire",
+            "Monke"
+        ],
+        "learned_moves": [
+            {
+                "name": "ooga booga",
+                "reason": "Level 7"
+            },
+            {
+                "name": "unga bunga",
+                "reason": "Level 17"
+            },
+            {
+                "name": "banana blitz",
+                "reason": "Level 38"
+            }
+        ]
+    },
+    "Vanillite": {
+        "types": [
+            "Ice",
+            "Baby"
+        ],
+        "learned_moves": [
+            {
+                "name": "babify",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Vanillish": {
+        "types": [
+            "Ice"
+        ],
+        "learned_moves": []
+    },
+    "Vaniluxe": {
+        "types": [
+            "Ice",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "unionize",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "kiss the homies",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Snover": {
+        "types": [
+            "Ice",
+            "Grass",
+            "Left"
+        ],
+        "learned_moves": [
+            {
+                "name": "unionize",
+                "reason": "Level 23"
+            },
+            {
+                "name": "fillabuster",
+                "reason": "Level 28"
+            },
+            {
+                "name": "protest",
+                "reason": "Level 33"
+            }
+        ]
+    },
+    "Abombasnow": {
+        "types": [
+            "Ice",
+            "Grass",
+            "Left"
+        ],
+        "learned_moves": [
+            {
+                "name": "unionize",
+                "reason": "Level 23"
+            },
+            {
+                "name": "fillabuster",
+                "reason": "Level 28"
+            },
+            {
+                "name": "protest",
+                "reason": "Level 33"
+            }
+        ]
+    },
+    "Snom": {
+        "types": [
+            "Ice",
+            "Bean"
+        ],
+        "learned_moves": [
+            {
+                "name": "snow pea",
+                "reason": "(replace struggle bug)"
+            }
+        ]
+    },
+    "Frosmoth": {
+        "types": [
+            "Ice",
+            "Bug",
+            "Magic"
+        ],
+        "learned_moves": [
+            {
+                "name": "ponder",
+                "reason": "Level 46"
+            },
+            {
+                "name": "mage armor",
+                "reason": "Level 50"
+            },
+            {
+                "name": "fireball",
+                "reason": "Level 48"
+            }
+        ]
+    },
+    "Nincada": {
+        "types": [
+            "Bug",
+            "Crab"
+        ],
+        "learned_moves": [
+            {
+                "name": "vise grip",
+                "reason": "Level 10"
+            },
+            {
+                "name": "crab rave",
+                "reason": "Level 29"
+            },
+            {
+                "name": "crabhammer",
+                "reason": "Level 40"
+            }
+        ]
+    },
+    "Ninjask": {
+        "types": [
+            "Sharp",
+            "Zoomer"
+        ],
+        "learned_moves": [
+            {
+                "name": "squad goals",
+                "reason": "(on evo)"
+            }
+        ]
+    },
+    "Shedinja": {
+        "types": [
+            "Sans"
+        ],
+        "learned_moves": [
+            {
+                "name": "bad time",
+                "reason": "Level 50"
+            },
+            {
+                "name": "gaster blaster",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Golett": {
+        "types": [
+            "Ancient"
+        ],
+        "learned_moves": []
+    },
+    "Golurk": {
+        "types": [
+            "Ancient"
+        ],
+        "learned_moves": []
+    },
+    "Duraludon": {
+        "types": [
+            "Gun"
+        ],
+        "learned_moves": [
+            {
+                "name": "shoot",
+                "reason": "Level 50"
+            }
+        ]
+    },
+    "Nosepass": {
+        "types": [
+            "Rock",
+            "Vibe"
+        ],
+        "learned_moves": [
+            {
+                "name": "vibe shift",
+                "reason": "Level 20"
+            }
+        ]
+    },
+    "Probopass": {
+        "types": [
+            "Boomer",
+            "Gun"
+        ],
+        "learned_moves": [
+            {
+                "name": "shoot",
+                "reason": "Level 43"
+            }
+        ]
+    },
+    "Shieldon": {
+        "types": [
+            "Ancient",
+            "Steel"
+        ],
+        "learned_moves": []
+    },
+    "Bastiodon": {
+        "types": [
+            "Ancient",
+            "Steel",
+            "Boomer"
+        ],
+        "learned_moves": []
+    },
+    "Rotom": {
+        "types": [
+            "Prime"
+        ],
+        "learned_moves": [
+            {
+                "name": "prime sub",
+                "reason": "Level 25"
+            }
+        ]
+    },
+    "Inkay": {
+        "types": [
+            "Silly",
+            "Psychic"
+        ],
+        "learned_moves": [
+            {
+                "name": "hypno goggles 3",
+                "reason": "(over hypnosis)"
+            }
+        ]
+    },
+    "Malamar": {
+        "types": [
+            "Dark",
+            "Reverse",
+            "Psychic"
+        ],
+        "learned_moves": [
+            {
+                "name": "hypno goggles 3",
+                "reason": "(over hypnosis)"
+            }
+        ]
+    },
+    "Munchlax": {
+        "types": [
+            "Ohio",
+            "Friend"
+        ],
+        "learned_moves": []
+    },
+    "Snorlax": {
+        "types": [
+            "Ohio",
+            "Friend"
+        ],
+        "learned_moves": [
+            {
+                "name": "barbecue",
+                "reason": "Level 39"
+            }
+        ]
+    },
+    "Beldum": {
+        "types": [
+            "Steel",
+            "Space"
+        ],
+        "learned_moves": []
+    },
+    "Metang": {
+        "types": [
+            "Steel",
+            "Space",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "dab me up",
+                "reason": "(on evo)"
+            },
+            {
+                "name": "peer pressure",
+                "reason": "Level 48"
+            }
+        ]
+    },
+    "Metagross": {
+        "types": [
+            "Steel",
+            "Space",
+            "Guys"
+        ],
+        "learned_moves": [
+            {
+                "name": "peer pressure",
+                "reason": "Level 48"
+            },
+            {
+                "name": "singularity",
+                "reason": "Level 55"
+            }
+        ]
+    },
+    "Rayquaza": {
+        "types": [
+            "Emerald"
+        ],
+        "learned_moves": [
+            {
+                "name": "dragon ascent",
+                "reason": "Level 70"
+            }
+        ]
+    },
+    "Mew": {
+        "types": [
+            "Prime"
+        ],
+        "learned_moves": [
+            {
+                "name": "content",
+                "reason": "Level 20"
+            },
+            {
+                "name": "prime sub",
+                "reason": "Level 20"
+            }
+        ]
+    },
+    "Latios": {
+        "types": [
+            "OU"
+        ],
+        "learned_moves": [
+            {
+                "name": "thunderbolt",
+                "reason": "Level 51"
+            },
+            {
+                "name": "ice beam",
+                "reason": "Level 51"
+            }
+        ]
+    },
+    "Latias": {
+        "types": [
+            "OU"
+        ],
+        "learned_moves": []
+    },
+    "Wynaut": {
+        "types": [
+            "Reverse",
+            "Baby"
+        ],
+        "learned_moves": []
+    },
+    "Deoxys (N)": {
+        "types": [
+            "Space",
+            "Crab"
+        ],
+        "learned_moves": []
+    },
+    "M-Metagross": {
+        "types": [
+            "Space",
+            "Guys",
+            "Crab"
+        ],
+        "learned_moves": []
+    }
+}
