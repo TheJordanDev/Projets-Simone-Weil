@@ -5132,14 +5132,6 @@
                     ],
                     "cry": "https://pokemoncries.com/cries/718.mp3",
                     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10120.png"
-                },
-                {
-                    "types": [
-                        "dragon",
-                        "ground"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/718.mp3",
-                    "sprite": null
                 }
             ]
         },

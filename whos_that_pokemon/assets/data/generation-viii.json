@@ -3241,22 +3241,6 @@
                     ],
                     "cry": "https://pokemoncries.com/cries/845.mp3",
                     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/845.png"
-                },
-                {
-                    "types": [
-                        "flying",
-                        "water"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/845.mp3",
-                    "sprite": null
-                },
-                {
-                    "types": [
-                        "flying",
-                        "water"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/845.mp3",
-                    "sprite": null
                 }
             ]
         },
@@ -4658,14 +4642,6 @@
                     ],
                     "cry": "https://pokemoncries.com/cries/877.mp3",
                     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/877.png"
-                },
-                {
-                    "types": [
-                        "electric",
-                        "dark"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/877.mp3",
-                    "sprite": null
                 }
             ]
         },
@@ -5810,14 +5786,6 @@
                     ],
                     "cry": "https://pokemoncries.com/cries/893.mp3",
                     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/893.png"
-                },
-                {
-                    "types": [
-                        "dark",
-                        "grass"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/893.mp3",
-                    "sprite": null
                 }
             ]
         },

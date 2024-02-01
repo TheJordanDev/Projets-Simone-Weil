@@ -3466,14 +3466,6 @@
                     ],
                     "cry": "https://pokemoncries.com/cries/752.mp3",
                     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/752.png"
-                },
-                {
-                    "types": [
-                        "water",
-                        "bug"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/752.mp3",
-                    "sprite": null
                 }
             ]
         },
@@ -3566,13 +3558,6 @@
                     ],
                     "cry": "https://pokemoncries.com/cries/754.mp3",
                     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/754.png"
-                },
-                {
-                    "types": [
-                        "grass"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/754.mp3",
-                    "sprite": null
                 }
             ]
         },
@@ -3759,14 +3744,6 @@
                     ],
                     "cry": "https://pokemoncries.com/cries/758.mp3",
                     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/758.png"
-                },
-                {
-                    "types": [
-                        "poison",
-                        "fire"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/758.mp3",
-                    "sprite": null
                 }
             ]
         },
@@ -4982,14 +4959,6 @@
                     ],
                     "cry": "https://pokemoncries.com/cries/777.mp3",
                     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/777.png"
-                },
-                {
-                    "types": [
-                        "electric",
-                        "steel"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/777.mp3",
-                    "sprite": null
                 }
             ]
         },
@@ -7741,14 +7710,6 @@
                     ],
                     "cry": "https://pokemoncries.com/cries/784.mp3",
                     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/784.png"
-                },
-                {
-                    "types": [
-                        "dragon",
-                        "fighting"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/784.mp3",
-                    "sprite": null
                 }
             ]
         },

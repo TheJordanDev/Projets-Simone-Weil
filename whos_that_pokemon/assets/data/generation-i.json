@@ -5541,13 +5541,6 @@
                         "normal"
                     ],
                     "cry": "https://pokemoncries.com/cries/133.mp3",
-                    "sprite": null
-                },
-                {
-                    "types": [
-                        "normal"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/133.mp3",
                     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10205.png"
                 }
             ]
@@ -8188,20 +8181,6 @@
                     ],
                     "cry": "https://pokemoncries.com/cries/25.mp3",
                     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/10148.png"
-                },
-                {
-                    "types": [
-                        "electric"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/25.mp3",
-                    "sprite": null
-                },
-                {
-                    "types": [
-                        "electric"
-                    ],
-                    "cry": "https://pokemoncries.com/cries/25.mp3",
-                    "sprite": null
                 },
                 {
                     "types": [
